@@ -1,3 +1,1 @@
-modificacion de archivo
-
-Este archivo esta siendo modificado desde la rama SEGUNDA
+modificacion de archivo con rama segunda
